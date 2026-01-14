@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristobal (Pituxx)</h1>
 <h3 align="center">I am an engineer in virtual reality and digital game design, I am currently developing web pages, I am passionate about video games and I would like to achieve many things in this process</h3>
 
-- 🔭 I’m currently working on [Digisales](https://pituxx.github.io/web/)
 
 - 🤝 I’m looking for help with **IA**
 

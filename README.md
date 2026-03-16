@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, I'm Cristobal (Pituxx)</h1>
-<h3 align="center">I am an engineer in virtual reality and digital game design, I am currently developing web pages, I am passionate about video games and I would like to achieve many things in this process</h3>
+<h1 align="center">👋 Hi, I'm Cristobal Andrade (Pituxx)</h1>
+
+<h3 align="center">
+Virtual Reality & Game Design Engineer 🎮 <br>
+Web Developer 💻 | Passionate about Technology & AI 🚀
+</h3>
+
+---
+
+### 👨‍💻 About Me
+
+* 🎮 Engineer in **Virtual Reality and Digital Game Design**
+* 🌐 Currently working on **Web Development Projects**
+* 🤖 Interested in **Artificial Intelligence**
+* 🚀 Always building projects to improve my **portfolio and skills**
+
+---
+
+### 🧠 Ask Me About
+
+`C#` `C++` `HTML` `CSS` `SQL` `Unity` `Game Development`
+
+---
+
+### 📫 Contact
+
+📧 **Email:**
+[cristobal.andradeq5@gmail.com](mailto:cristobal.andradeq5@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/cristobal-andrade-0802091b3/
 
 
-- 🤝 I’m looking for help with **IA**
+---
 
-- 💬 Ask me about **C#,C++,HTML,CSS,SQL**
+### 📊 GitHub Stats
 
-- 📫 How to reach me **cristobal.andradeq5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cristobal-andrade-0802091b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristobal andrade" height="30" width="40" /></a>
-</p>
+<p align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pituxx&theme=violet-punch&hide_border=true&border_radius=5.7)](https://git.io/streak-stats)
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pituxx&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+---
+
+### 🚀 Current Focus
+
+* 🤖 Artificial Intelligence integration
+* 🎮 Game development with Unity
+* 🌐 Fullstack web applications
+* 🧠 Building a strong developer portfolio
+
+---
+
+⭐ *Always learning, always building.*
